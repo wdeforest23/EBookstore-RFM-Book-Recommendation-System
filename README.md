@@ -22,7 +22,7 @@ The primary objective of this project is to develop a book "Recommendation Engin
 
 ### Methodology
 
-- Recency-Frequency-Monetary Value (RFM) Segmentation. Suitable for this scenario because it is designed specifically for segmentation based on transactional behavior.
+- [Recency-Frequency-Monetary Value (RFM) Segmentation](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System/blob/main/RFM_Modeling.ipynb). Suitable for this scenario because it is designed specifically for segmentation based on transactional behavior.
 - Segment customers based on their standardized, composite RFM score
 - Develop unique promotions tailored to each segment
 - K-Nearest Neighbors (KNN) model to recommend a new book from a category preferred by similar (computed using cosine similarity) customers.
@@ -31,8 +31,8 @@ The primary objective of this project is to develop a book "Recommendation Engin
 - Provide detailed project timeline
 
 ### Final Presentation Deck
-- [Technical Presentation (for CTO)](./"Final Technical Presentation.pdf")
-- [Non-technical Presentation (for CMO)](./"Final CMO Presentation.pdf")
+- [Technical Presentation (for CTO)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System/blob/main/Final%20Technical%20Presentation.pdf)
+- [Non-technical Presentation (for CMO)](https://github.com/wdeforest23/EBookstore-RFM-Book-Recommendation-System/blob/main/Final%20CMO%20Presentation.pdf)
 
 
 
